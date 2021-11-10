@@ -1,0 +1,27 @@
+.game-card {
+    margin: 0.5rem;
+    padding: 0.5rem;
+    border-radius: 5%;
+}
+
+.game-card-front {
+    background-color: #ffa500;
+}
+
+.game-card-back {
+    background-color: #3737ff;
+}
+
+
+.list-group-item.active {
+    background-color: #5c636a;
+    border-color: #565e64;
+}
+
+.list-group {
+    display: inline-block;
+}
+
+.form-select {
+    display: inline-block;
+}
